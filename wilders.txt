@@ -1,3 +1,2 @@
 Name = Davido
 Teacher = Kevin, Cyrielle
-School = WCS
